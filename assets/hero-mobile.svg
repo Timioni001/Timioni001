@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="443" fill="none" aria-labelledby="t" role="img" viewBox="0 0 400 443"><title id="t">TIMI. Developer, onchain builder. Payments, DeFi, security, bots.</title><style>text{font-family:-apple-system,BlinkMacSystemFont,&apos;Segoe UI&apos;,&apos;Noto Sans&apos;,Helvetica,Arial,sans-serif;fill:#F2EBDC}
+.m{font-family:ui-monospace,SFMono-Regular,&apos;SF Mono&apos;,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace}
+.mu{fill:#8E897E}
+.ac{fill:#D4A866}
+.lab{font-size:13px;font-weight:800;letter-spacing:.02em;fill:#F2EBDC}
+.cap{font-size:12px;font-weight:700;letter-spacing:.08em;fill:#8E897E}
+.in{animation:in .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.fade{animation:fade 1s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.rise{animation:rise 1s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{transform:translateY(105%)}to{transform:none}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 6s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes ring{0%{opacity:.5;transform:scale(1)}55%,100%{opacity:0;transform:scale(2.8)}}
+.breathe{animation:breathe 6s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes breathe{0%,100%{opacity:1}50%{opacity:.3}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+.drift1{animation:drift1 12s cubic-bezier(.45,0,.55,1) infinite alternate}
+.drift2{animation:drift2 10s cubic-bezier(.45,0,.55,1) infinite alternate}
+@keyframes drift1{from{transform:translate(0,0)}to{transform:translate(-80px,40px)}}
+@keyframes drift2{from{transform:translate(0,0)}to{transform:translate(70px,-30px)}}
+.grain{animation:grain 8s cubic-bezier(.45,0,.55,1) infinite alternate}
+@keyframes grain{from{transform:translate(0,0)}to{transform:translate(-30px,-18px)}}
+.cur{animation:blink 1.2s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+.slash{animation:slash 8s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes slash{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+.nudge{animation:nudge 6s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes nudge{0%,60%,100%{transform:translateX(0)}30%{transform:translateX(10px)}}
+@media (prefers-reduced-motion:reduce){.p1,.p2{display:none}}
+
+.g0{animation:g0 12s linear 0s infinite both}
+@keyframes g0{0%{opacity:0}.5%{opacity:1}30%{opacity:1}33%{opacity:0}100%{opacity:0}}
+.c0{transform-box:view-box;transform-origin:90.2px 0;animation:c0 12s 0s infinite both}
+@keyframes c0{0%{transform:scaleX(0);animation-timing-function:steps(25,end)}16%,100%{transform:scaleX(1)}}
+.k0{animation:k0 12s 0s infinite both}
+@keyframes k0{0%{transform:translateX(-195px);animation-timing-function:steps(25,end)}16%,100%{transform:translateX(0)}}
+.g1{animation:g1 12s linear 4s infinite both}
+@keyframes g1{0%{opacity:0}.5%{opacity:1}30%{opacity:1}33%{opacity:0}100%{opacity:0}}
+.c1{transform-box:view-box;transform-origin:90.2px 0;animation:c1 12s 4s infinite both}
+@keyframes c1{0%{transform:scaleX(0);animation-timing-function:steps(22,end)}16%,100%{transform:scaleX(1)}}
+.k1{animation:k1 12s 4s infinite both}
+@keyframes k1{0%{transform:translateX(-171.6px);animation-timing-function:steps(22,end)}16%,100%{transform:translateX(0)}}
+.g2{animation:g2 12s linear 8s infinite both}
+@keyframes g2{0%{opacity:0}.5%{opacity:1}30%{opacity:1}33%{opacity:0}100%{opacity:0}}
+.c2{transform-box:view-box;transform-origin:90.2px 0;animation:c2 12s 8s infinite both}
+@keyframes c2{0%{transform:scaleX(0);animation-timing-function:steps(28,end)}16%,100%{transform:scaleX(1)}}
+.k2{animation:k2 12s 8s infinite both}
+@keyframes k2{0%{transform:translateX(-218.4px);animation-timing-function:steps(28,end)}16%,100%{transform:translateX(0)}}</style><clipPath id="panel"><rect width="400" height="443" rx="18"/></clipPath><g clip-path="url(#panel)"><rect width="400" height="443" fill="#0b0b0a"/><defs><radialGradient id="ga"><stop offset="0" stop-color="#d4a866" stop-opacity=".2"/><stop offset="1" stop-color="#d4a866" stop-opacity="0"/></radialGradient><radialGradient id="gb"><stop offset="0" stop-color="#d4a866" stop-opacity=".1"/><stop offset="1" stop-color="#d4a866" stop-opacity="0"/></radialGradient><filter id="noise" width="100%" height="100%" x="0" y="0"><feTurbulence baseFrequency=".8" numOctaves="2" stitchTiles="stitch" type="fractalNoise"/><feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 .9 0"/></filter></defs><circle cx="320" cy="132.8" r="240" fill="url(#ga)" class="drift1"/><circle cx="60" cy="398.5" r="200" fill="url(#gb)" class="drift2"/><rect width="480" height="522.8" x="-40" y="-40" class="grain" filter="url(#noise)" opacity=".05"/><g class="fade"><text x="20" y="42" class="lab">TIMI</text><text x="20" y="57" class="lab">ONCHAIN</text><g class="slash"><path stroke="#d4a866" stroke-linecap="round" stroke-width="2.4" d="m362 54 6-14m4 14 6-14"/></g></g><clipPath id="nameclip"><rect width="400" height="202.8" x="0" y="82"/></clipPath><g clip-path="url(#nameclip)"><g class="rise" style="animation-delay:0.10s"><path fill="#f2ebdc" d="M86 282.8H47.8V128.7H25.2V92h83.4v36.7H86"/></g><g class="rise" style="animation-delay:0.19s"><path fill="#f2ebdc" d="M154.4 282.8h-36.9V92h36.9"/></g><g class="rise" style="animation-delay:0.28s"><path fill="#f2ebdc" d="M204 282.8h-34.4V92h58.1l16 116.3L259.6 92h58.7v190.8h-34.9V145.4l-21.9 137.4h-34.3L204 145.4"/></g><g class="rise" style="animation-delay:0.37s"><path fill="#f2ebdc" d="M370.3 282.8h-36.9V92h36.9"/></g></g><g class="in" style="animation-delay:0.55s"><text x="200" y="326.8" class="ac" font-size="12" font-weight="800" letter-spacing=".04em" text-anchor="middle">DEVELOPER · ONCHAIN BUILDER</text><text x="200" y="346.8" class="ac" font-size="12" font-weight="800" letter-spacing=".04em" text-anchor="middle">PAYMENTS · DEFI · SECURITY · BOTS</text></g><g class="fade" style="animation-delay:0.80s"><line x1="20" x2="380" y1="374.8" y2="374.8" stroke="#f2ebdc" stroke-opacity=".14"/><text x="20" y="408.8" class="m ac" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="62.4">~/timi $</text><g class="nudge"><path stroke="#f2ebdc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M346 403.8h34m-9-7 9 7-9 7"/></g></g><clipPath id="cp0"><rect width="197" height="26" x="90.2" y="390.781" class="c0"/></clipPath><g class="g0 p0"><text x="90.2" y="408.781" class="m" clip-path="url(#cp0)" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="195">streaming payroll on NEAR</text><g class="k0"><rect width="7" height="17" x="287.2" y="395.781" fill="#d4a866" class="cur"/></g></g><clipPath id="cp1"><rect width="173.6" height="26" x="90.2" y="390.781" class="c1"/></clipPath><g class="g1 p1"><text x="90.2" y="408.781" class="m" clip-path="url(#cp1)" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="171.6">watching Bayse markets</text><g class="k1"><rect width="7" height="17" x="263.8" y="395.781" fill="#d4a866" class="cur"/></g></g><clipPath id="cp2"><rect width="220.4" height="26" x="90.2" y="390.781" class="c2"/></clipPath><g class="g2 p2"><text x="90.2" y="408.781" class="m" clip-path="url(#cp2)" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="218.4">replaying bugs to prove them</text><g class="k2"><rect width="7" height="17" x="310.6" y="395.781" fill="#d4a866" class="cur"/></g></g></g></svg>

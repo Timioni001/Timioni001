@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="289" fill="none" aria-labelledby="t" role="img" viewBox="0 0 880 289"><title id="t">Say hi: @0x_TIMii on X</title><style>text{font-family:-apple-system,BlinkMacSystemFont,&apos;Segoe UI&apos;,&apos;Noto Sans&apos;,Helvetica,Arial,sans-serif;fill:#F2EBDC}
+.m{font-family:ui-monospace,SFMono-Regular,&apos;SF Mono&apos;,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace}
+.mu{fill:#8E897E}
+.ac{fill:#D4A866}
+.lab{font-size:13px;font-weight:800;letter-spacing:.02em;fill:#F2EBDC}
+.cap{font-size:12px;font-weight:700;letter-spacing:.08em;fill:#8E897E}
+.in{animation:in .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.fade{animation:fade 1s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.rise{animation:rise 1s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{transform:translateY(105%)}to{transform:none}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 6s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes ring{0%{opacity:.5;transform:scale(1)}55%,100%{opacity:0;transform:scale(2.8)}}
+.breathe{animation:breathe 6s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes breathe{0%,100%{opacity:1}50%{opacity:.3}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+.nudge{animation:nudge 6s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes nudge{0%,60%,100%{transform:translateX(0)}30%{transform:translateX(10px)}}</style><clipPath id="panel"><rect width="880" height="289" rx="18"/></clipPath><g clip-path="url(#panel)"><rect width="880" height="289" fill="#0b0b0a"/><clipPath id="fw"><rect width="880" height="111.1" x="0" y="34"/></clipPath><g clip-path="url(#fw)"><g class="rise" style="animation-delay:0.05s"><path fill="#f2ebdc" d="M69.1 144q-14.2 0-20.4-7t-6.2-22.4v-10.1h20.4v12.9q0 3.6 1 5.6 1.1 2.1 3.8 2.1 2.8 0 3.9-1.7 1.1-1.6 1.1-5.4 0-4.7-.9-7.9-1-3.2-3.3-6.1t-6.4-6.8l-9.3-8.8Q42.5 78.6 42.5 66q0-13.1 6.1-20 6.1-7 17.7-7 14.2 0 20.1 7.6 6 7.6 6 23h-21v-7.1q0-2.1-1.2-3.3T67 58q-2.5 0-3.7 1.4-1.1 1.4-1.1 3.5 0 2.2 1.2 4.7 1.2 2.6 4.6 5.8l11.9 11.5q3.6 3.4 6.6 7.1 3 3.8 4.8 8.8t1.8 12.2q0 14.6-5.4 22.8-5.3 8.2-18.6 8.2"/></g><g class="rise" style="animation-delay:0.11s"><path fill="#f2ebdc" d="M117.2 143.1h-20L107.1 40h35l9.8 103.1h-19.5l-1.5-16.6h-12.4zm6.7-85.5L120 110h9.3l-4.5-52.4"/></g><g class="rise" style="animation-delay:0.17s"><path fill="#f2ebdc" d="M187.3 143.1h-19.4v-33.9L151.4 40h20.4l5.8 34.9 5.7-34.9h20.4l-16.4 69.2"/></g><g class="rise" style="animation-delay:0.23s"><path fill="#f2ebdc"/></g><g class="rise" style="animation-delay:0.29s"><path fill="#f2ebdc" d="M257.6 143.1h-20.5V40h20.5v36.8h9.7V40h20.5v103.1h-20.5V96.3h-9.7"/></g><g class="rise" style="animation-delay:0.35s"><path fill="#f2ebdc" d="M316 143.1h-20V40h20"/></g></g><g class="in" style="animation-delay:0.50s"><text x="40" y="201.1" class="ac" font-size="32" font-weight="800" letter-spacing="-.02em">@0x_TIMii on X</text><g class="nudge"><path stroke="#d4a866" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M311.9 190.6h32m-12.2-12.2 12.2 12.2-12.2 12.2"/></g></g><g class="fade" style="animation-delay:0.70s"><line x1="40" x2="840" y1="237" y2="237" stroke="#f2ebdc" stroke-opacity=".14"/><text x="40" y="265" class="cap">© 2026 TIMI</text><text x="840" y="265" class="cap" text-anchor="end">HAND-WRITTEN SVG · NO TRACKERS</text></g></g></svg>

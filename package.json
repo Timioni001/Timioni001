@@ -1,0 +1,13 @@
+{
+  "name": "timioni001-profile",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-assets.js && svgo --config scripts/svgo.config.js -f assets",
+    "preview": "node scripts/preview.js shots",
+    "check-motion": "node scripts/check-motion.js shots"
+  },
+  "devDependencies": {
+    "svgo": "^4.0.0",
+    "opentype.js": "^2.0.0"
+  }
+}
